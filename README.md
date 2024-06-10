@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeepTan
-- 👀 I’m interested in Python and C++.
-- 🌱 I’m currently enhancing my Python and C++ skills
+- 👀 I’m interested in Python, C++ and HTML.
+- 🌱 I’m currently enhancing my C++ skills and learning the way to use git.
 - 😄 Pronouns: He/Him
 
 <!---
